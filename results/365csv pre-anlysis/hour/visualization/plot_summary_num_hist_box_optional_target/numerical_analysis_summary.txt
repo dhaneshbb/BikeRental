@@ -1,0 +1,339 @@
+Numerical Variable Analysis Report
+========================================================================================================================
+
+
+### Analysis for 'instant'  ###
+| Statistic          |         Overall |
+|--------------------|-----------------|
+| Count              | 17379           |
+| Mean               |  8690           |
+| Trimmed Mean (IQR) |  8690           |
+| MAD                |  4344.75        |
+| Std                |  5017.03        |
+| Min                |     1           |
+| 25%                |  4345.5         |
+| 50%                |  8690           |
+| 75%                | 13034.5         |
+| Max                | 17379           |
+| Mode               |     1           |
+| Range              | 17378           |
+| IQR                |  8689           |
+| Variance           |     2.51706e+07 |
+| Skewness           |     0           |
+| Kurtosis           |    -1.2         |
+
+
+### Analysis for 'season'  ###
+| Statistic          |       Overall |
+|--------------------|---------------|
+| Count              | 17379         |
+| Mean               |     2.50164   |
+| Trimmed Mean (IQR) |     2.50164   |
+| MAD                |     0.987593  |
+| Std                |     1.10692   |
+| Min                |     1         |
+| 25%                |     2         |
+| 50%                |     3         |
+| 75%                |     3         |
+| Max                |     4         |
+| Mode               |     3         |
+| Range              |     3         |
+| IQR                |     1         |
+| Variance           |     1.22527   |
+| Skewness           |    -0.0054157 |
+| Kurtosis           |    -1.33425   |
+
+
+### Analysis for 'yr'  ###
+| Statistic          |       Overall |
+|--------------------|---------------|
+| Count              | 17379         |
+| Mean               |     0.502561  |
+| Trimmed Mean (IQR) |     0.502561  |
+| MAD                |     0.499987  |
+| Std                |     0.500008  |
+| Min                |     0         |
+| 25%                |     0         |
+| 50%                |     1         |
+| 75%                |     1         |
+| Max                |     1         |
+| Mode               |     1         |
+| Range              |     1         |
+| IQR                |     1         |
+| Variance           |     0.250008  |
+| Skewness           |    -0.0102433 |
+| Kurtosis           |    -2.00013   |
+
+
+### Analysis for 'mnth'  ###
+| Statistic          |        Overall |
+|--------------------|----------------|
+| Count              | 17379          |
+| Mean               |     6.53778    |
+| Trimmed Mean (IQR) |     6.53778    |
+| MAD                |     2.98282    |
+| Std                |     3.43878    |
+| Min                |     1          |
+| 25%                |     4          |
+| 50%                |     7          |
+| 75%                |    10          |
+| Max                |    12          |
+| Mode               |     5          |
+| Range              |    11          |
+| IQR                |     6          |
+| Variance           |    11.8252     |
+| Skewness           |    -0.00925325 |
+| Kurtosis           |    -1.20188    |
+
+
+### Analysis for 'hr'  ###
+| Statistic          |       Overall |
+|--------------------|---------------|
+| Count              | 17379         |
+| Mean               |    11.5468    |
+| Trimmed Mean (IQR) |    11.5468    |
+| MAD                |     5.98823   |
+| Std                |     6.91441   |
+| Min                |     0         |
+| 25%                |     6         |
+| 50%                |    12         |
+| 75%                |    18         |
+| Max                |    23         |
+| Mode               |    16         |
+| Range              |    23         |
+| IQR                |    12         |
+| Variance           |    47.809     |
+| Skewness           |    -0.0106799 |
+| Kurtosis           |    -1.19802   |
+
+
+### Analysis for 'holiday'  ###
+| Statistic          |       Overall |
+|--------------------|---------------|
+| Count              | 17379         |
+| Mean               |     0.0287704 |
+| Trimmed Mean (IQR) |     0         |
+| MAD                |     0.0558852 |
+| Std                |     0.167165  |
+| Min                |     0         |
+| 25%                |     0         |
+| 50%                |     0         |
+| 75%                |     0         |
+| Max                |     1         |
+| Mode               |     0         |
+| Range              |     1         |
+| IQR                |     0         |
+| Variance           |     0.0279442 |
+| Skewness           |     5.63854   |
+| Kurtosis           |    29.7965    |
+
+
+### Analysis for 'weekday'  ###
+| Statistic          |        Overall |
+|--------------------|----------------|
+| Count              | 17379          |
+| Mean               |     3.00368    |
+| Trimmed Mean (IQR) |     3.00368    |
+| MAD                |     1.72087    |
+| Std                |     2.00577    |
+| Min                |     0          |
+| 25%                |     1          |
+| 50%                |     3          |
+| 75%                |     5          |
+| Max                |     6          |
+| Mode               |     6          |
+| Range              |     6          |
+| IQR                |     4          |
+| Variance           |     4.02312    |
+| Skewness           |    -0.00299822 |
+| Kurtosis           |    -1.256      |
+
+
+### Analysis for 'workingday'  ###
+| Statistic          |      Overall |
+|--------------------|--------------|
+| Count              | 17379        |
+| Mean               |     0.682721 |
+| Trimmed Mean (IQR) |     0.682721 |
+| MAD                |     0.433226 |
+| Std                |     0.465431 |
+| Min                |     0        |
+| 25%                |     0        |
+| 50%                |     1        |
+| 75%                |     1        |
+| Max                |     1        |
+| Mode               |     1        |
+| Range              |     1        |
+| IQR                |     1        |
+| Variance           |     0.216626 |
+| Skewness           |    -0.785258 |
+| Kurtosis           |    -1.38353  |
+
+
+### Analysis for 'weathersit'  ###
+| Statistic          |      Overall |
+|--------------------|--------------|
+| Count              | 17379        |
+| Mean               |     1.42528  |
+| Trimmed Mean (IQR) |     1.42484  |
+| MAD                |     0.558578 |
+| Std                |     0.639357 |
+| Min                |     1        |
+| 25%                |     1        |
+| 50%                |     1        |
+| 75%                |     2        |
+| Max                |     4        |
+| Mode               |     1        |
+| Range              |     3        |
+| IQR                |     1        |
+| Variance           |     0.408777 |
+| Skewness           |     1.22805  |
+| Kurtosis           |     0.350151 |
+
+
+### Analysis for 'temp'  ###
+| Statistic          |        Overall |
+|--------------------|----------------|
+| Count              | 17379          |
+| Mean               |     0.496987   |
+| Trimmed Mean (IQR) |     0.496987   |
+| MAD                |     0.165175   |
+| Std                |     0.192556   |
+| Min                |     0.02       |
+| 25%                |     0.34       |
+| 50%                |     0.5        |
+| 75%                |     0.66       |
+| Max                |     1          |
+| Mode               |     0.62       |
+| Range              |     0.98       |
+| IQR                |     0.32       |
+| Variance           |     0.0370779  |
+| Skewness           |    -0.00602088 |
+| Kurtosis           |    -0.941844   |
+
+
+### Analysis for 'atemp'  ###
+| Statistic          |       Overall |
+|--------------------|---------------|
+| Count              | 17379         |
+| Mean               |     0.475775  |
+| Trimmed Mean (IQR) |     0.475775  |
+| MAD                |     0.145324  |
+| Std                |     0.17185   |
+| Min                |     0         |
+| 25%                |     0.3333    |
+| 50%                |     0.4848    |
+| 75%                |     0.6212    |
+| Max                |     1         |
+| Mode               |     0.6212    |
+| Range              |     1         |
+| IQR                |     0.2879    |
+| Variance           |     0.0295325 |
+| Skewness           |    -0.0904289 |
+| Kurtosis           |    -0.845412  |
+
+
+### Analysis for 'hum'  ###
+| Statistic          |       Overall |
+|--------------------|---------------|
+| Count              | 17379         |
+| Mean               |     0.627229  |
+| Trimmed Mean (IQR) |     0.628024  |
+| MAD                |     0.163311  |
+| Std                |     0.19293   |
+| Min                |     0         |
+| 25%                |     0.48      |
+| 50%                |     0.63      |
+| 75%                |     0.78      |
+| Max                |     1         |
+| Mode               |     0.88      |
+| Range              |     1         |
+| IQR                |     0.3       |
+| Variance           |     0.0372219 |
+| Skewness           |    -0.111287  |
+| Kurtosis           |    -0.826117  |
+
+
+### Analysis for 'windspeed'  ###
+| Statistic          |       Overall |
+|--------------------|---------------|
+| Count              | 17379         |
+| Mean               |     0.190098  |
+| Trimmed Mean (IQR) |     0.182893  |
+| MAD                |     0.0963123 |
+| Std                |     0.12234   |
+| Min                |     0         |
+| 25%                |     0.1045    |
+| 50%                |     0.194     |
+| 75%                |     0.2537    |
+| Max                |     0.8507    |
+| Mode               |     0         |
+| Range              |     0.8507    |
+| IQR                |     0.1492    |
+| Variance           |     0.0149671 |
+| Skewness           |     0.574905  |
+| Kurtosis           |     0.59082   |
+
+
+### Analysis for 'casual'  ###
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              | 17379       |
+| Mean               |    35.6762  |
+| Trimmed Mean (IQR) |    25.0584  |
+| MAD                |    34.14    |
+| Std                |    49.305   |
+| Min                |     0       |
+| 25%                |     4       |
+| 50%                |    17       |
+| 75%                |    48       |
+| Max                |   367       |
+| Mode               |     0       |
+| Range              |   367       |
+| IQR                |    44       |
+| Variance           |  2430.99    |
+| Skewness           |     2.49924 |
+| Kurtosis           |     7.571   |
+
+
+### Analysis for 'registered'  ###
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              | 17379       |
+| Mean               |   153.787   |
+| Trimmed Mean (IQR) |   134.378   |
+| MAD                |   114.396   |
+| Std                |   151.357   |
+| Min                |     0       |
+| 25%                |    34       |
+| 50%                |   115       |
+| 75%                |   220       |
+| Max                |   886       |
+| Mode               |     4       |
+| Range              |   886       |
+| IQR                |   186       |
+| Variance           | 22909       |
+| Skewness           |     1.5579  |
+| Kurtosis           |     2.75002 |
+
+
+### Analysis for 'cnt'  ###
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              | 17379       |
+| Mean               |   189.463   |
+| Trimmed Mean (IQR) |   172.71    |
+| MAD                |   142.4     |
+| Std                |   181.388   |
+| Min                |     1       |
+| 25%                |    40       |
+| 50%                |   142       |
+| 75%                |   281       |
+| Max                |   977       |
+| Mode               |     5       |
+| Range              |   976       |
+| IQR                |   241       |
+| Variance           | 32901.5     |
+| Skewness           |     1.27741 |
+| Kurtosis           |     1.4172  |
+

@@ -1,0 +1,16 @@
+Variable,VIF
+instant,2206.73
+season,24.81
+yr,843.44
+mnth,640.35
+holiday,1.11
+weekday,3.27
+workingday,9.46
+weathersit,14.61
+temp,500.48
+atemp,579.04
+hum,28.23
+windspeed,5.51
+casual,inf
+registered,inf
+cnt,inf

@@ -1,0 +1,9 @@
+Categorical Summary:
+
+| Statistic      | dteday     |
+|----------------|------------|
+| Count          | 17379      |
+| Unique         | 731        |
+| Top            | 2011-01-01 |
+| Frequency      | 24         |
+| Top Percentage | 0.14%      |

@@ -1,0 +1,21 @@
+
+=== Outliers Summary ===
+
+|   Index | Column     |   Outlier Count | Percentage   |
+|---------|------------|-----------------|--------------|
+|       0 | instant    |               0 | 0.00%        |
+|       1 | season     |               0 | 0.00%        |
+|       2 | yr         |               0 | 0.00%        |
+|       3 | mnth       |               0 | 0.00%        |
+|       4 | hr         |               0 | 0.00%        |
+|       5 | holiday    |             500 | 2.88%        |
+|       6 | weekday    |               0 | 0.00%        |
+|       7 | workingday |               0 | 0.00%        |
+|       8 | weathersit |               3 | 0.02%        |
+|       9 | temp       |               0 | 0.00%        |
+|      10 | atemp      |               0 | 0.00%        |
+|      11 | hum        |              22 | 0.13%        |
+|      12 | windspeed  |             342 | 1.97%        |
+|      13 | casual     |            1192 | 6.86%        |
+|      14 | registered |             680 | 3.91%        |
+|      15 | cnt        |             505 | 2.91%        |

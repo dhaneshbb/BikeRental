@@ -1,0 +1,22 @@
+
+======== Column Summary: ===========
+
+Index Attribute                      Data Type       Range                          Distinct Count
+----- ------------------------------ --------------- ------------------------------ ---------------
+1     instant                        int64           1 - 17379                      17379
+2     season                         int64           1 - 4                          4
+3     yr                             int64           0 - 1                          2
+4     mnth                           int64           1 - 12                         12
+5     hr                             int64           0 - 23                         24
+6     holiday                        int64           0 - 1                          2
+7     weekday                        int64           0 - 6                          7
+8     workingday                     int64           0 - 1                          2
+9     weathersit                     int64           1 - 4                          4
+10    casual                         int64           0 - 367                        322
+11    registered                     int64           0 - 886                        776
+12    cnt                            int64           1 - 977                        869
+13    dteday                         object          N/A                            731
+14    temp                           float64         0.02 - 1.0                     50
+15    atemp                          float64         0.0 - 1.0                      65
+16    hum                            float64         0.0 - 1.0                      89
+17    windspeed                      float64         0.0 - 0.8507                   30

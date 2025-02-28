@@ -1,0 +1,15 @@
+Numerical Variable,Pearson,Spearman
+instant,0.63,0.63
+season,0.41,0.4
+yr,0.57,0.57
+mnth,0.28,0.27
+holiday,-0.07,-0.06
+weekday,0.07,0.06
+workingday,0.06,0.06
+weathersit,-0.3,-0.27
+temp,0.63,0.62
+atemp,0.63,0.62
+hum,-0.1,-0.1
+windspeed,-0.23,-0.22
+casual,0.67,0.75
+registered,0.95,0.94

@@ -1,0 +1,34 @@
+
+=== Data Overview Table ===
+
+
+Overview for Data Type: int64
+
+|    | Column Name   | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|---------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | instant       | int64       |            731 |               0 |                    0 | No Missing Values        |
+|  1 | season        | int64       |              4 |               0 |                    0 | No Missing Values        |
+|  2 | yr            | int64       |              2 |               0 |                    0 | No Missing Values        |
+|  3 | mnth          | int64       |             12 |               0 |                    0 | No Missing Values        |
+|  4 | holiday       | int64       |              2 |               0 |                    0 | No Missing Values        |
+|  5 | weekday       | int64       |              7 |               0 |                    0 | No Missing Values        |
+|  6 | workingday    | int64       |              2 |               0 |                    0 | No Missing Values        |
+|  7 | weathersit    | int64       |              3 |               0 |                    0 | No Missing Values        |
+|  8 | casual        | int64       |            606 |               0 |                    0 | No Missing Values        |
+|  9 | registered    | int64       |            679 |               0 |                    0 | No Missing Values        |
+| 10 | cnt           | int64       |            696 |               0 |                    0 | No Missing Values        |
+
+Overview for Data Type: float64
+
+|    | Column Name   | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|---------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | temp          | float64     |            499 |               0 |                    0 | No Missing Values        |
+|  1 | atemp         | float64     |            690 |               0 |                    0 | No Missing Values        |
+|  2 | hum           | float64     |            595 |               0 |                    0 | No Missing Values        |
+|  3 | windspeed     | float64     |            650 |               0 |                    0 | No Missing Values        |
+
+Overview for Data Type: object
+
+|    | Column Name   | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|---------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | dteday        | object      |            731 |               0 |                    0 | No Missing Values        |
